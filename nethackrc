@@ -22,6 +22,9 @@ OPTIONS=tile_file:chozo5.xpm
 # Ensure changes will be shown for a few turns after they happen.
 OPTIONS=statushilites:10
 
+# Show inventory on the right permanently
+OPTIONS=perm_invent:true
+
 # Always show gold as the proper color.
 OPTIONS=hilite_status:gold/always/yellow
 
